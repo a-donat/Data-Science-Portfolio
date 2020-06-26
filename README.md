@@ -32,7 +32,7 @@ Outline:
         B. Implement Voting on Training Set
     6. Performance on Test Set
 
-# An Interactive Explanation of the Principal Component Analysis (PCA)
+## An Interactive Explanation of the Principal Component Analysis (PCA)
 
 Outline : 
 
