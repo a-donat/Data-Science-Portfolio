@@ -20,3 +20,5 @@
         A. Relationship Between Errors
         B. Implement Voting on Training Set
     6. Performance on Test Set
+
+Libraries Used: numpy, pandas, sklearn, matplotlib, seaborn
