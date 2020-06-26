@@ -7,7 +7,9 @@ This project highlights the following:
       3. My ability to construct pipelines that connect data processing with data analysis.
       4. My understanding of the advantages and disadvantages of each method, and how to combine methodologies accordingly.
       5. My superior data visualization skills.
-      
+
+Libraries Used: numpy, pandas, sklearn, matplotlib, seaborn
+
 Outline:
 
     1. Set-Up
@@ -28,5 +30,3 @@ Outline:
         A. Relationship Between Errors
         B. Implement Voting on Training Set
     6. Performance on Test Set
-
-Libraries Used: numpy, pandas, sklearn, matplotlib, seaborn
