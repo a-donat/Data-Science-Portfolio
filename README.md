@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-### I know what I'm doing.
+### I know what I'm doing, and I do it quite well.
 
 Annalisa Donat
 https://www.linkedin.com/in/annalisa-donat-20476a104/
