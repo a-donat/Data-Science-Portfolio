@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 ## Classification: Breast Cancer Detection
    Outline:
-   ---------------------------------------------------------
+   
     1. Set-Up
     2. Data Exploration
     3. Analysis: Model Evaluation and Hyperparameter Tuning
