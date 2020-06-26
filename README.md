@@ -1,7 +1,13 @@
 # Data-Science-Portfolio
 ## Classification: Breast Cancer Detection
-   Outline:
+   This project highlights the following:
+      1. My mastery of the major classification methods in machine learning.
+      2. My ability to use finetune the hyperparameters of these analyses. 
+      3. My ability to construct pipelines that connect data processing with data analysis.
+      4. My understanding of the advantages and disadvantages of each method, and how to combine methodologies accordingly.
+      5. My superior data visualization skills.
    
+   Outline:
     1. Set-Up
     2. Data Exploration
     3. Analysis: Model Evaluation and Hyperparameter Tuning
