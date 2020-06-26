@@ -1,4 +1,6 @@
 # Data-Science-Portfolio
+### I know what I'm doing.
+
 Annalisa Donat
 https://www.linkedin.com/in/annalisa-donat-20476a104/
 
