@@ -58,3 +58,27 @@ Outline :
             F. Reduce Dimensionality of PCA Transformed Dataset
       5. PCA in SK-Learn
       6. Disadvantages and Limits of PCA
+
+
+## Predicting Sales from Advertising Budget
+
+Libraries Used: numpy, pandas, scipy, sklearn, matplotlib, seaborn
+
+Outline:
+
+      1. Load and Check Data
+      2. Explore Dataset
+      3. Task 1: Predict Sales from Advertising Budget
+            A. Define Visualization Functions
+            B. Linear Regression
+            C. RANSAC Linear Regression
+            D. Decision Tree Regressor
+            E. ADABoost Regression
+      4. Task 2: Recommend New Budget Allocations
+            A. Description of Task and Market Constraints
+            B. Find Best Budget Allocation by Total Budget
+            C. Visualize Recommendations
+            D. Describe Projected Increase in Sales
+            E. Results
+
+
