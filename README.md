@@ -37,6 +37,8 @@ Outline:
 
 ## An Interactive Explanation of the Principal Component Analysis (PCA)
 
+Libraries Used: numpy, pandas, sklearn, ipywidgets, matplotlib, seaborn
+
 Outline : 
 
       1. Set-Up
