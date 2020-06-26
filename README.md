@@ -62,6 +62,13 @@ Outline :
 
 ## Predicting Sales from Advertising Budget
 
+This project highlights the following:
+
+      1. My mastery of the major prediction and regression methods in machine learning.
+      2. My ability to use finetune the hyperparameters of these analyses. 
+      3. My understanding of the advantages and disadvantages of each method.
+      4. My superior data visualization skills.
+      
 Libraries Used: numpy, pandas, scipy, sklearn, matplotlib, seaborn
 
 Outline:
