@@ -89,7 +89,7 @@ Outline:
             E. Results
 
 
-## Predicting Customer Spending from Website, Mobile App, and In-Store Activity.
+## Predicting Customer Spending from Website, Mobile App, and In-Store Activity
 
 This project highlights the following:
 
