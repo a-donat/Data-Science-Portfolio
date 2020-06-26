@@ -1,4 +1,7 @@
 # Data-Science-Portfolio
+Annalisa Donat
+https://www.linkedin.com/in/annalisa-donat-20476a104/
+
 ## Classification: Breast Cancer Detection
 This project highlights the following:
 
