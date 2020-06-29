@@ -11,7 +11,7 @@ See below for a description of the following five projects:
 4. [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 
-## AB Test: Mobile App User Retention
+## 1. AB Test: Mobile App User Retention
 
 This project highlights the following:
 
@@ -23,7 +23,7 @@ Libraries Used: numpy, pandas, scipy, matplotlib
 Analyses/Techniques: Bootstrapping, Chi-squared Test, T-Test
 
 	
-## Classification: Breast Cancer Detection
+## 2. Classification: Breast Cancer Detection
 This project highlights the following:
 
       1. My mastery of the major classification methods in machine learning.
@@ -41,7 +41,7 @@ Models/Techniques: Principal Component Analysis, Decision Tree, Gaussian Naive B
 K Nearest Neighbors, Logistic Regression, Support Vector Machine
 
 
-## Interactive Explanation of the Principal Component Analysis (PCA)
+## 3. Interactive Explanation of the Principal Component Analysis (PCA)
 
 Libraries Used: numpy, pandas, sklearn, ipywidgets, matplotlib, seaborn
 
@@ -49,7 +49,7 @@ Topics Covered: Principal Component Analysis (PCA), Covariance,
 Linear Algebra (Eigenvectors and Eigenvalues), Dimensionality Reduction
 
 
-## Predicting Customer Spending from Website, Mobile App, and In-Store Activity
+## 4. Predicting Customer Spending from Website, Mobile App, and In-Store Activity
 
 This project highlights the following:
 
@@ -65,7 +65,7 @@ Models: Linear Regression, RANSAC Linear Regression, Decision Tree Regressor,
 ADABoost Regression
 
  
-## Predicting Sales from Advertising Budget
+## 5. Predicting Sales from Advertising Budget
 
 This project highlights the following:
 
