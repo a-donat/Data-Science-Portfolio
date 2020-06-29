@@ -7,7 +7,7 @@ See below for a description of the following five projects:
 
 	1. AB Test Mobile App User Retention
 	2. Classification: Breast Cancer Detection
-	3. Principal Component Analysis (PCA): Interactive Explanation
+	3. [Principal Component Analysis (PCA): Interactive Explanation](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
 	4. Predicting Customer Spending from Website, Mobile App, and In-Store Activity
 	5. Predicting Sales from Advertising Budget
 
