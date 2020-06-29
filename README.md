@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-Annalisa Donat
+Annalisa Donat<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
 
 See below for a description of the following five projects:
