@@ -20,19 +20,8 @@ This project highlights the following:
 
 Libraries Used: numpy, pandas, scipy, matplotlib
 
-Outline: 
+Analyses/Techniques: Bootstrapping, Chi-squared Test, T-Test
 
-	1. Background
-	2.  Overview of the AB-test data
-	3.  Load and Check Data
-		A. Check Data Encoding
-		B. Check Integrity of Experiment
-	4.  Data Exploration
-    		A. The distribution of game rounds
-	5.  Overall 1-day retention
-	6.  Overall 7th-Day Retention
-	7.  7th Day Retention Given 1st Day Retention
-	8.  Conclusion
 	
 ## Classification: Breast Cancer Detection
 This project highlights the following:
