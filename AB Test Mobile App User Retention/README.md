@@ -21,5 +21,5 @@ Outline:
     		A. The distribution of game rounds
 	5.  Overall 1-day retention
 	6.  Overall 7th-Day Retention
-	7. 7th Day Retention Given 1st Day Retention
+	7.  7th Day Retention Given 1st Day Retention
 	8.  Conclusion
