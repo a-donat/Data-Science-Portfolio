@@ -5,13 +5,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a1
 
 See below for a description of the following five projects:
 
-1. [AB Test Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
+1. [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
 2. [Classification: Breast Cancer Detection](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Classification%20Breast%20Cancer%20Detection)
 3. [Principal Component Analysis (PCA): Interactive Explanation](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
 4. [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 
-## AB Test Mobile App User Retention
+## AB Test: Mobile App User Retention
 
 This project highlights the following:
 
