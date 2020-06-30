@@ -3,7 +3,7 @@ https://www.linkedin.com/in/annalisa-donat-20476a104/
 
 # AB Test Mobile App User Retention
 
-![Chart_Pic]https://github.com/a-donat/Data-Science-Portfolio/blob/master/AB%20Test%20Mobile%20App%20User%20Retention/chart_example.png
+![Chart_Pic]https://raw.githubusercontent.com/a-donat/Data-Science-Portfolio/master/AB%20Test%20Mobile%20App%20User%20Retention/chart_example.jpeg
 
 This project highlights the following:
 
