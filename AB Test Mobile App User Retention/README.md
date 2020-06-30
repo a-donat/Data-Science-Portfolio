@@ -3,6 +3,8 @@ https://www.linkedin.com/in/annalisa-donat-20476a104/
 
 # AB Test Mobile App User Retention
 
+![Chart_Pic]https://github.com/a-donat/Data-Science-Portfolio/blob/master/AB%20Test%20Mobile%20App%20User%20Retention/chart_example.png
+
 This project highlights the following:
 
 	1. My ability to conduct an AB Test when the ideal data is not available.
