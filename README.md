@@ -83,3 +83,5 @@ Tasks:
 
       1. Predict Sales from Advertising Budget
       2. Recommend New Budget Allocations
+
+![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg)
