@@ -5,6 +5,8 @@ https://www.linkedin.com/in/annalisa-donat-20476a104/
 
 Overview: In this analysis I will show how a client could increase sales by 34.6%.
 
+![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg?raw=true)
+
 This project highlights the following:
 
       1. My mastery of the major prediction and regression methods in machine learning.
