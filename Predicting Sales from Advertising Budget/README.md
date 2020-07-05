@@ -7,7 +7,7 @@ Depending on internet connection, it may take a few seconds for the analysis to 
 
 # Predicting Sales from Advertising Budget
 
-Overview: In this analysis I will show how a client could increase sales by 34.6%.
+Overview: In this analysis I will show how a client could <b>increase sales by 34.6%.</b>
 
 This project highlights the following:
 
