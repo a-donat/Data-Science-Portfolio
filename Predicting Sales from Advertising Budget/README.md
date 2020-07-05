@@ -1,15 +1,11 @@
 Annalisa Donat
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
 
-<h2>test</h2>
-CLICK ON "Predicting_Sales_from_Advertising_Budget.ipynb" TO VIEW
 # Click [HERE](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/Predicting_Sales_from_Advertising_Budget.ipynb) To View Analysis
 
 # Predicting Sales from Advertising Budget
 
 Overview: In this analysis I will show how a client could increase sales by 34.6%.
-
-![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg?raw=true)
 
 This project highlights the following:
 
@@ -36,3 +32,5 @@ Outline:
             C. Visualize Recommendations
             D. Describe Projected Increase in Sales
             E. Results
+            
+![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg?raw=true)
