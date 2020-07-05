@@ -1,5 +1,7 @@
 Annalisa Donat
-https://www.linkedin.com/in/annalisa-donat-20476a104/
+Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
+
+CLICK ON "Predicting_Sales_from_Advertising_Budget.ipynb" TO VIEW
 
 # Predicting Sales from Advertising Budget
 
