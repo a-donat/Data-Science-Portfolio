@@ -12,6 +12,7 @@ See below for a description of the following seven projects:
 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 6. [Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
 7. [Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
+8. [Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
 
 ## 1. AB Test: Mobile App User Retention
 
@@ -106,6 +107,18 @@ This project highlights the following:
 	1. My ability to apply Neural Networks to the field of computer vision.
 	2. My ability to prevent overfitting Neural Networks to training data through a variety of regularization techniques.
 	3. My ability to apply Neural Networks to multiclass classification problems.
+	
+Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
+
+Models: Convolutional Neural Network (CNN)
+
+## 8. Detecting Fake Pokemon Cards with a Convolutional Neural Network
+
+This project highlights the following:
+
+	1. My ability to apply Neural Networks to the field of computer vision.
+	2. My ability to prevent overfitting Neural Networks to training data through a variety of regularization techniques.
+	3. I used a different image distortion technique than I did in examples 6 and 7. WHEN CONSIDERED TOGETHER, these three projects demonstrate my ability to look at the training data and recognize which image distortion techniques will prevent overfitting a model to training data, and which image distortion techniques will lead to a loss of relevant information.
 	
 Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
 
