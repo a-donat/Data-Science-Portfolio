@@ -10,9 +10,9 @@ See below for a description of the following seven projects:
 3. [Principal Component Analysis (PCA): Interactive Explanation](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
 4. [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
-6. [Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
-7. [Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
-8. [Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
+6. [Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
+7. [Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
+8. [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
 
 ## 1. AB Test: Mobile App User Retention
 
@@ -89,7 +89,7 @@ Tasks:
 
 ![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg)
 
-## 6. Detection of COVID-19 from X-ray Images with a Convolutional Neural Network
+## 6. Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network
 
 This project highlights the following:
 
@@ -100,7 +100,7 @@ Libraries Used: tensorflow, keras, numpy, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 7. Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network
+## 7. Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network
 
 This project highlights the following:
 
@@ -112,7 +112,7 @@ Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 8. Detecting Fake Pokemon Cards with a Convolutional Neural Network
+## 8. Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network
 
 This project highlights the following:
 
