@@ -3,7 +3,7 @@
 Annalisa Donat<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
 
-See below for a description of the following seven projects:
+See below for a description of the following projects:
 
 1. [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
 2. [Classification: Breast Cancer Detection](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Classification%20Breast%20Cancer%20Detection)
