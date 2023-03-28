@@ -14,7 +14,7 @@ See below for a description of the following projects:
 7. [Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
 8. [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
 9. [Classifying Sentiment of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
-10. [Detecting Pharyngitis in_Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
+10. [Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
 
 
 ## 1. AB Test: Mobile App User Retention
@@ -133,7 +133,7 @@ Libraries Used: nltk, pandas, sklearn
 
 Models: Multinomial Naive Bayes, Compliment Naive Bayes, Decision Tree, Support Vector Machine
 
-## 10. Detecting Pharyngitis in_Children with PyCaret
+## 10. Detecting Pharyngitis in Children with PyCaret
 
 Libraries Used: pandas, pyCaret
 
