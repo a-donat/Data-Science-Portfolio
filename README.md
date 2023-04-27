@@ -13,8 +13,8 @@ See below for a description of the following projects:
 6. [Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
 7. [Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
 8. [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
-9. [Classifying Sentiment of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
-10. [Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
+9. [Sentiment Analysis of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
+10. [Classification: Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
 11. [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
 
 
@@ -128,13 +128,13 @@ Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 9. Classifying Sentiment of App Reviews with Natural Language Processing (NLP)
+## 9. Sentiment Analysis of App Reviews with Natural Language Processing (NLP)
 
 Libraries Used: nltk, pandas, sklearn
 
 Models: Multinomial Naive Bayes, Compliment Naive Bayes, Decision Tree, Support Vector Machine
 
-## 10. Detecting Pharyngitis in Children with PyCaret
+## 10. Classification: Detecting Pharyngitis in Children with PyCaret
 
 Libraries Used: pandas, pyCaret
 
