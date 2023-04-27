@@ -15,6 +15,7 @@ See below for a description of the following projects:
 8. [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
 9. [Classifying Sentiment of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
 10. [Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
+11. [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
 
 
 ## 1. AB Test: Mobile App User Retention
@@ -138,3 +139,8 @@ Models: Multinomial Naive Bayes, Compliment Naive Bayes, Decision Tree, Support 
 Libraries Used: pandas, pyCaret
 
 Models: Ensemble Learning, Ada Boost, Decision Tree, Extra Trees, Random Forest, Gradient Boosting, Light Gradient Boosting Machine, Extreme Gradient Boosting, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K Neighbors, Naive Bayes, Support Vector Machine with Linear Kernel, Logistic Regression, Ridge Regression
+
+## 11. Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)
+Libraries Used: gensim, networkx, numpy, pandas, sklearn
+
+Models: Word2Vec (NLP), Cosine Similarity, Fruchterman-Reingold force-directed algorithm (Graphs)
