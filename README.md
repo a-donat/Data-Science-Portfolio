@@ -141,6 +141,6 @@ Libraries Used: pandas, pyCaret
 Models: Ensemble Learning, Ada Boost, Decision Tree, Extra Trees, Random Forest, Gradient Boosting, Light Gradient Boosting Machine, Extreme Gradient Boosting, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K Neighbors, Naive Bayes, Support Vector Machine with Linear Kernel, Logistic Regression, Ridge Regression
 
 ## 11. Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)
-Libraries Used: gensim, networkx, numpy, pandas, sklearn
+Libraries Used: gensim, networkx, numpy, pandas, plotly, sklearn
 
 Models: Word2Vec (NLP), Cosine Similarity, Fruchterman-Reingold force-directed algorithm (Graphs)
