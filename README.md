@@ -3,6 +3,29 @@
 Annalisa Donat<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
 
+Statistics:
+- [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
+
+Conceptual Explanation:
+- [Principal Component Analysis (PCA): Interactive Explanation](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
+
+Classification:
+- [Classification: Breast Cancer Detection](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Classification%20Breast%20Cancer%20Detection)
+- [Classification: Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
+
+Regression:
+- [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
+- [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
+
+Computer Vision:
+- [Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
+- [Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
+- [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
+
+Natural Language Processing:
+- [Sentiment Analysis of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
+- [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
+
 See below for a description of the following projects:
 
 1. [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
