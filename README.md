@@ -42,7 +42,7 @@ See below for a description of the following projects:
 11. [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
 
 
-## 1. AB Test: Mobile App User Retention
+## 1. [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
 
 This project highlights the following:
 
@@ -54,7 +54,7 @@ Libraries Used: numpy, pandas, scipy, matplotlib
 Analyses/Techniques: Bootstrapping, Chi-squared Test, T-Test
 
 	
-## 2. Classification: Breast Cancer Detection
+## 2. [Classification: Breast Cancer Detection](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Classification%20Breast%20Cancer%20Detection)
 This project highlights the following:
 
       1. My mastery of the major classification methods in machine learning.
@@ -72,7 +72,7 @@ Models/Techniques: Principal Component Analysis, Decision Tree, Gaussian Naive B
 K Nearest Neighbors, Logistic Regression, Support Vector Machine
 
 
-## 3. Interactive Explanation of the Principal Component Analysis (PCA)
+## 3. [Interactive Explanation of the Principal Component Analysis (PCA)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
 
 Libraries Used: numpy, pandas, sklearn, ipywidgets, matplotlib, seaborn
 
@@ -80,7 +80,7 @@ Topics Covered: Principal Component Analysis (PCA), Covariance,
 Linear Algebra (Eigenvectors and Eigenvalues), Dimensionality Reduction
 
 
-## 4. Predicting Customer Spending from Website, Mobile App, and In-Store Activity
+## 4. [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
 
 This project highlights the following:
 
@@ -96,7 +96,7 @@ Models: Linear Regression, RANSAC Linear Regression, Decision Tree Regressor,
 ADABoost Regression
 
  
-## 5. Predicting Sales from Advertising Budget
+## 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 
 This project highlights the following:
 
@@ -117,7 +117,7 @@ Tasks:
 
 ![Chart_Photo](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Predicting%20Sales%20from%20Advertising%20Budget/model_comparison.jpeg)
 
-## 6. Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network
+## 6. [Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb)
 
 This project highlights the following:
 
@@ -128,7 +128,7 @@ Libraries Used: tensorflow, keras, numpy, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 7. Computer Vision: Diagnosis of Kidney CT Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network
+## 7. [Computer Vision: Diagnosis of Kidney CT-Scans as Either Normal, Tumor, Cyst or Stone with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Kidney_CT_Scans_Multiclass_CNN.ipynb)
 
 This project highlights the following:
 
@@ -140,7 +140,7 @@ Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 8. Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network
+## 8. [Computer Vision: Detecting Fake Pokemon Cards with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Fake_Pokemon_Cards_CNN.ipynb)
 
 This project highlights the following:
 
@@ -152,19 +152,19 @@ Libraries Used: tensorflow, keras, numpy, pandas, matplotlib
 
 Models: Convolutional Neural Network (CNN)
 
-## 9. Sentiment Analysis of App Reviews with Natural Language Processing (NLP)
+## 9. [Sentiment Analysis of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
 
 Libraries Used: nltk, pandas, sklearn
 
 Models: Multinomial Naive Bayes, Compliment Naive Bayes, Decision Tree, Support Vector Machine
 
-## 10. Classification: Detecting Pharyngitis in Children with PyCaret
+## 10. [Classification: Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
 
 Libraries Used: pandas, pyCaret
 
 Models: Ensemble Learning, Ada Boost, Decision Tree, Extra Trees, Random Forest, Gradient Boosting, Light Gradient Boosting Machine, Extreme Gradient Boosting, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K Neighbors, Naive Bayes, Support Vector Machine with Linear Kernel, Logistic Regression, Ridge Regression
 
-## 11. Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)
+## 11. [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
 Libraries Used: gensim, networkx, numpy, pandas, plotly, sklearn
 
 Models: Word2Vec (NLP), Cosine Similarity, Fruchterman-Reingold force-directed algorithm (Graphs)
