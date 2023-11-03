@@ -1,4 +1,5 @@
 # Data-Science-Portfolio
+<b>NLP ᐧ Computer Vision ᐧ Classifications ᐧ Regressions ᐧ Statistics </b>
 
 Annalisa Donat<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
