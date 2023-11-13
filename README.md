@@ -5,7 +5,8 @@ Annalisa Donat<br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/annalisa-donat-20476a104/)
 
 Statistics:
-- [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
+- [A/B Testing: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
+- [A/B Testing: Facebook Ad Bidding Strategies](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Facebook_Ad_Bidding_AB_Test.ipynb)
 
 Conceptual Explanation:
 - [Principal Component Analysis (PCA): Interactive Explanation](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Interactive%20PCA%20Explanation)
