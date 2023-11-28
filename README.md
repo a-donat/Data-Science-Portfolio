@@ -17,7 +17,7 @@ Classification:
 
 Regression:
 - [Predicting Customer Spending from Website, Mobile App, and In-Store Activity](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Customer%20Spending%20from%20Website%2C%20Mobile%20App%2C%20and%20In-Store%20Activity)
-- [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
+- [Optimizing Advertising Budget to Achieve a 34.6% Increase in Sales](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 
 Computer Vision:
 - [Computer Vision: Detection of COVID-19 from X-ray Images with a Convolutional Neural Network](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Covid19_Detection_Using_X_ray_Images.ipynb) (Coursera Guided Project, included with permission)
@@ -97,8 +97,9 @@ Libraries Used: numpy, pandas, regex, scipy, sklearn, matplotlib, seaborn
 Models: Linear Regression, RANSAC Linear Regression, Decision Tree Regressor, 
 ADABoost Regression
 
- 
-## 5. [Predicting Sales from Advertising Budget](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
+ Optimized budget achieves a 34.6% increase in sales![image](https://github.com/a-donat/Data-Science-Portfolio/assets/54750428/ffd748b7-e7e8-49f0-a877-8a9b0bd25763)
+
+## 5. [Optimizing Advertising Budget to Achieve a 34.6% Increase in Sales](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Predicting%20Sales%20from%20Advertising%20Budget)
 
 This project highlights the following:
 
