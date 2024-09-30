@@ -42,7 +42,7 @@ See below for a description of the following projects:
 9. [Sentiment Analysis of App Reviews with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/blob/master/NLP_Predicting_Sentiment_of_App_Reviews_Portfolio.ipynb)
 10. [Classification: Detecting Pharyngitis in Children with PyCaret](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Detecting_Pharyngitis_in_Children_with_PyCaret.ipynb)
 11. [Analyzing Culinary Similarities Between Foods with Natural Language Processing (NLP)](https://github.com/a-donat/Data-Science-Portfolio/tree/master/Analyzing_Culinary_of_Foods_Similarities_w_NLP)
-
+12. [Predicting Customer Propensity to Churn](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Customer_Propensity_to_Churn.ipynb)
 
 ## 1. [AB Test: Mobile App User Retention](https://github.com/a-donat/Data-Science-Portfolio/tree/master/AB%20Test%20Mobile%20App%20User%20Retention)
 
@@ -171,3 +171,6 @@ Models: Ensemble Learning, Ada Boost, Decision Tree, Extra Trees, Random Forest,
 Libraries Used: gensim, networkx, numpy, pandas, plotly, sklearn
 
 Models: Word2Vec (NLP), Cosine Similarity, Fruchterman-Reingold force-directed algorithm (Graphs)
+
+## 12. [Predicting Customer Propensity to Churn](https://github.com/a-donat/Data-Science-Portfolio/blob/master/Customer_Propensity_to_Churn.ipynb)
+Models: Ensemble Learning, Random Forest, Gradient Boosting, Naive Bayes, Ridge Regression, Propensity Model
